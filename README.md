@@ -1,5 +1,3 @@
-# claude-skills-collection
-
 # 📦 Claude Skills Collection
 
 **A curated collection of official and community-built Claude Skills.**  
